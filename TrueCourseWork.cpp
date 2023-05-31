@@ -1,6 +1,4 @@
-﻿
-#include "UI.h"
-#include "DataManager.h"
+﻿#include "UI.h"
 
 int main()
 {
