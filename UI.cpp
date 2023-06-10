@@ -1,7 +1,7 @@
 #include <string>
 #include <sstream>
 #include <cstdlib>
-#include <Windows.h>
+#include <windows.h>
 #include <iomanip>
 
 #include "UI.h"
