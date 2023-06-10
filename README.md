@@ -19,12 +19,11 @@ Reset: Users can reset the system to its initial state, removing all characters 
 To use the Character and Item Management System, follow these steps:
 
 Clone the project repository to your local machine.
-Build and compile the source code using your preferred C++ compiler.
+Build and compile the source code using your preferred C++ compiler but this will work only in windows systems because of windows.h library!
 Run the executable file to launch the program.
 Follow the on-screen instructions to interact with the system and perform various operations.
 Usage
-Upon launching the program, the user interface will be displayed, presenting a menu with different options. Use the number keys to select an option and press Enter to confirm.
-###Take note that this project work only in windows system because of using windows.h library!!!
+Upon launching the program, the user interface will be displayed, presenting a menu with different options. Use the w or s keys to select an option and press Enter to confirm.
 
 The menu options include adding characters, adding items to characters, removing characters, sorting characters, filtering characters, printing characters and items, and quitting the program.
 
